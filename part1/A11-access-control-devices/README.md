@@ -15,7 +15,7 @@ Fingerprint scanners work by scanning the unique ridges and valleys of a fingure
 
 A key fob is a small battery powered transmitter. These transmitters use RFID (Radio Frequency Identification) or radio signals to send data to a receiver. They look like a small remote with buttons. When a button is pressed it sends an encrypted code to the receiver and if it matches its code it will perform an action. These are used for car keys or garage remotes which let you unlock them without having to physically insert a key.
 
-Intercom systems are used in apartments these are systems where someone inside has to approve access before the door opens. They are two way systems where communication devices (audio and remote door unclocking and in some cases video) are transmitted between "master stations" and "substations". They can use wires or wifi.
+Intercom systems are used in apartments these are systems where someone inside has to approve access before the door opens. They are two way systems where communication devices (audio and remote door unlocking and in some cases video) are transmitted between "master stations" and "substations". They can use wires or wifi.
 
 ## Evidence collected
 Screenshots of each access control device are in the evidence folder
